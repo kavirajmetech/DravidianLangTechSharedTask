@@ -1,0 +1,5 @@
+noise present in data 
+    tamil, english, tags, unstructured sentence, emojis
+
+three components of data
+    tamil text, tags, emojis
