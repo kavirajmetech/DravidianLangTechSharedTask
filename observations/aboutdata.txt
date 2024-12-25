@@ -3,3 +3,8 @@ noise present in data
 
 three components of data
     tamil text, tags, emojis
+
+preprocessed data contains
+    tamil sentence, emojs, tags, pos tags, dependency relation, lemma, tokens
+
+    
