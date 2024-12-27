@@ -1,0 +1,5 @@
+(26/12/24) - kavi
+in data_processing/data_process.ipynb
+traned fasttext model for embedding
+fit decision tree classifier for multiclass classification
+got stunning perfomance of 23% accuracy

@@ -7,4 +7,3 @@ three components of data
 preprocessed data contains
     tamil sentence, emojs, tags, pos tags, dependency relation, lemma, tokens
 
-    
