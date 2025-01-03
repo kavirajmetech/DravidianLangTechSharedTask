@@ -1,0 +1,62 @@
+Data Exploration Techniques
+Class Distribution Analysis:
+
+Visualize the distribution of the different classes to understand how balanced the dataset is. This can be done using bar charts or pie charts.
+
+Word Clouds:
+
+Create word clouds for each class to identify the most common words and phrases. This helps in understanding the dominant themes within each class.
+
+Frequency Distribution:
+
+Analyze the frequency of words in the corpus. This can be done by plotting the most frequent words for each class.
+
+Text Length Distribution:
+
+Examine the distribution of text lengths across the dataset. This can help in understanding the typical length of tweets and setting appropriate padding or truncation lengths for model inputs.
+
+N-gram Analysis:
+
+Look at the frequency of bigrams and trigrams to uncover common word sequences. This can reveal interesting patterns that single-word analysis might miss.
+
+Sentiment Analysis:
+
+Perform sentiment analysis to determine the overall sentiment of the tweets. This can provide insights into the emotional tone of the data.
+
+Word Embeddings Visualization:
+
+Use techniques like PCA (Principal Component Analysis) or t-SNE to visualize word embeddings in 2D or 3D space. This helps in understanding the relationships between different words or phrases.
+
+Correlation Matrix:
+
+Create a correlation matrix to explore the relationships between different features or classes. This can be useful for identifying patterns or dependencies.
+
+Exploratory Data Analysis (EDA) Reports:
+
+Generate comprehensive EDA reports using libraries like pandas-profiling or Sweetviz. These tools automatically provide a detailed overview of the dataset, including distributions, correlations, and missing values.
+
+Keyword Extraction:
+
+Extract and analyze key phrases or topics within the tweets. This can help in understanding the main themes and subjects discussed in the data.
+
+Comparing Embeddings with Pre-trained Models:
+
+Generate Embeddings:
+
+Use pre-trained models like BERT or IndicBERT to generate embeddings for your dataset.
+
+Visualize Embeddings:
+
+Use PCA or t-SNE to visualize the generated embeddings in a lower-dimensional space.
+
+Compute Similarity:
+
+Use cosine similarity or other distance metrics to compare your generated embeddings with those from pre-trained models.
+
+Cluster Analysis:
+
+Perform clustering (e.g., K-Means) on the embeddings to identify natural groupings within the data.
+
+Analyze Differences:
+
+Compare the clusters and similarities to understand how well your dataset aligns with the pre-trained embeddings.
